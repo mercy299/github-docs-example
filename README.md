@@ -24,11 +24,18 @@ Because it allows others to __copy and paste__ their code to replicate or resear
 
 [<sup>[2]</sup>](#references)
 
-- Make a note of where the backtick button is located. 
+- Try to Make a note of where the backtick button is located. 
 - It should appear above the tab key, but it may vary based on your keyboard layout.
 - Good Cloud Engineers use code blocks for both code and errors that appear in the console.
 
-![Picture](assets/Rectangle32.jpg)
+
+<img src="./assets/Rectangle 32.png"/>
+
+## Step 2 - How to take Screenshots
+
+A ScreenShot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone
 
 ## Step 3 - Use Github Flavoured Task Lists
 
