@@ -28,6 +28,8 @@ Because it allows others to __copy and paste__ their code to replicate or resear
 - It should appear above the tab key, but it may vary based on your keyboard layout.
 - Good Cloud Engineers use code blocks for both code and errors that appear in the console.
 
+![Picture](assets/Rectangle32.jpg)
+
 ## Step 3 - Use Github Flavoured Task Lists
 
 Githuhb extends markdown to have a list where you can check off items 
